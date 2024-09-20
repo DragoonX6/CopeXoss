@@ -1,0 +1,174 @@
+<cockatrice_carddatabase version="4">
+	<sets>
+		<set>
+			<name>Copium</name>
+			<longname>Dragoon's set of copium cards</longname>
+			<settype>Expansion</settype>
+			<releasedate>2024-09-20</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Roach Motel, Small Trickster (Revise)</name>
+			<set picURL="https://raw.githubusercontent.com/DragoonX6/CopeXoss/master/pics/CUSTOM/Copium/Roach%20Motel%2C%20Small%20Trickster%20%28Revise%29.jpg">Copium</set>
+			<tablerow>2</tablerow>
+			<text>[Auto]:  When this SIGNI is vanished, look at the top 3 cards of your deck.  You may set that card on 1 of your SIGNI Zones as a Trap. Put the rest on the bottom of your deck in any order.
+(Traps are set on SIGNI Zones facedown.  A SIGNI Zone may only have 1 Trap on it at a time.  When a SIGNI on your opponent's field attacks towards a SIGNI Zone with a Trap, if there is no SIGNI on that SIGNI Zone, you may flip the Trap face-up and trigger its [Trap] ability if any.  Then put the flipped card into the trash.)</text>
+			<prop>
+				<colors>U</colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>SIGNI - War Spirit: Trickster - Aya Limited</type>
+				<pt>2000</pt>
+				<maintype>SIGNI</maintype>
+				<format-allstar>legal</format-allstar>
+			</prop>
+		</card>
+		<card>
+			<name>Mine, Small Trickster (Revise)</name>
+			<set picURL="https://raw.githubusercontent.com/DragoonX6/CopeXoss/master/pics/CUSTOM/Copium/Mine%2C%20Small%20Trickster%20%28Revise%29.jpg">Copium</set>
+			<tablerow>2</tablerow>
+			<text>[Enter] {U}:  Search your deck for 1 Trickster SIGNI, reveal it, then add it to your hand.  Shuffle your deck.</text>
+			<prop>
+				<colors>U</colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>SIGNI - War Spirit: Trickster</type>
+				<pt>2000</pt>
+				<maintype>SIGNI</maintype>
+				<format-allstar>legal</format-allstar>
+			</prop>
+		</card>
+		<card>
+			<name>Boukeami, Super Trickster (Revise)</name>
+			<set picURL="https://raw.githubusercontent.com/DragoonX6/CopeXoss/master/pics/CUSTOM/Copium/Boukeami%2C%20Super%20Trickster%20%28Revise%29.jpg">Copium</set>
+			<tablerow>2</tablerow>
+			<text>[Enter] {U}: Search your deck for up to 3 cards and set them on your SIGNI Zones as Traps.  Shuffle your deck.
+[Action] [Attack Phase] Put 1 Trickster SIGNI on your field into the trash: Draw 1 card.
+[Trap]:  You may discard a Trickster SIGNI from your hand.  If you do, vanish 1 SIGNI on your opponent's field.
+
+[Life Burst]:  Add 2 SIGNI with [Trap] from your trash to your hand.</text>
+			<prop>
+				<colors>U</colors>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>SIGNI|LB - War Spirit: Trickster - Aya Limited</type>
+				<pt>12000</pt>
+				<maintype>SIGNI|LB</maintype>
+				<format-allstar>legal</format-allstar>
+			</prop>
+		</card>
+		<card>
+			<name>Gijidou, Super Trickster (Revise)</name>
+			<set picURL="https://raw.githubusercontent.com/DragoonX6/CopeXoss/master/pics/CUSTOM/Copium/Gijidou%2C%20Super%20Trickster%20%28Revise%29.jpg">Copium</set>
+			<tablerow>2</tablerow>
+			<text>[Auto]:  When this SIGNI attacks, you may discard 1 SIGNI with [Trap] from your hand.  If you do, vanish 1 SIGNI on your opponent's field.
+[Enter]:  Add 1 SIGNI with [Trap] other than "Gijidou, Super Trickster" from your trash to your hand.
+
+[Trap]:  You may pay {U}.  If you do, put 1 Trickster SIGNI from your Ener Zone onto your field.
+
+[Life Burst]:  If there is a Trap on your field, draw 2 cards.</text>
+			<prop>
+				<colors>U</colors>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>SIGNI|LB - War Spirit: Trickster - Aya Limited</type>
+				<pt>12000</pt>
+				<maintype>SIGNI|LB</maintype>
+				<format-allstar>legal</format-allstar>
+			</prop>
+		</card>
+		<card>
+			<name>Houdina, God Trickster (Revise)</name>
+			<set picURL="https://raw.githubusercontent.com/DragoonX6/CopeXoss/master/pics/CUSTOM/Copium/Houdina%2C%20God%20Trickster%20%28Revise%29.jpg">Copium</set>
+			<tablerow>2</tablerow>
+			<text>[Auto]:  When a SIGNI enters an opponent's SIGNI Zone with a Trap on it, put both that SIGNI and that Trap into the trash.
+[Enter]:  Set 1 SIGNI on your opponent's field on its SIGNI Zone as a Trap.  (Flip that SIGNI facedown.  It is now considered a Trap on the field.)
+
+[Trap]:  You may discard a Trickster SIGNI from your hand or pay {U}.  If you do, set 1 SIGNI on your opponent's field on its SIGNI Zone as a Trap.
+
+[Life Burst]:  Set 1 SIGNI on your opponent's field on its SIGNI Zone as a Trap.  </text>
+			<prop>
+				<colors>U</colors>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<type>SIGNI|LB - War Spirit: Trickster - Aya Limited</type>
+				<pt>15000</pt>
+				<maintype>SIGNI|LB</maintype>
+				<format-allstar>legal</format-allstar>
+			</prop>
+		</card>
+		<card>
+			<name>Plasbomb, Medium Trickster (Revise)</name>
+			<set picURL="https://raw.githubusercontent.com/DragoonX6/CopeXoss/master/pics/CUSTOM/Copium/Plasbomb%2C%20Medium%20Trickster%20%28Revise%29.jpg">Copium</set>
+			<tablerow>2</tablerow>
+			<text>[Enter] {0}: Shuffle up to 3 cards with [Trap] other than "Plasbomb, Medium Trickster" from your trash into your deck.
+
+[Trap]:  Your opponent shuffles all cards in their trash into their deck.  Then if 10 or more cards were shuffled into their deck this way, vanish 1 SIGNI on your opponent's field.
+
+[Life Burst]:  Draw 1 card.</text>
+			<prop>
+				<colors>U</colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>SIGNI|LB - War Spirit: Trickster</type>
+				<pt>5000</pt>
+				<maintype>SIGNI|LB</maintype>
+				<format-allstar>legal</format-allstar>
+			</prop>
+		</card>
+		<card>
+			<name>Trainbomb, Small Trickster (Revise)</name>
+			<set picURL="https://raw.githubusercontent.com/DragoonX6/CopeXoss/master/pics/CUSTOM/Copium/Trainbomb%2C%20Small%20Trickster%20%28Revise%29.jpg">Copium</set>
+			<tablerow>2</tablerow>
+			<text>[Auto]:  At the end of your opponent's turn, you may vanish this SIGNI.  If you do, look at the top 4 cards of your deck, set 1 of them on 1 of your SIGNI Zones as a Trap, then put the rest on the bottom of your deck in any order.
+
+[Trap]:  This card gets the [Trap] ability of 1 card in your trash, then you may use that ability. If this ability would have no cost, you must pay {1} to use it.
+
+[Life Burst]:  [Ener Charge 1]</text>
+			<prop>
+				<colors>U</colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>SIGNI|LB - War Spirit: Trickster - Aya Limited</type>
+				<pt>2000</pt>
+				<maintype>SIGNI|LB</maintype>
+				<format-allstar>legal</format-allstar>
+			</prop>
+		</card>
+		<card>
+			<name>Browcra, Small Trickster (Revise)</name>
+			<set picURL="https://raw.githubusercontent.com/DragoonX6/CopeXoss/master/pics/CUSTOM/Copium/Browcra%2C%20Small%20Trickster%20%28Revise%29.jpg">Copium</set>
+			<tablerow>2</tablerow>
+			<text>[Trap]: All SIGNI on your opponent's field lose their abilities until end of turn.</text>
+			<prop>
+				<colors>U</colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>SIGNI - War Spirit: Trickster - Aya Limited</type>
+				<pt>1000</pt>
+				<maintype>SIGNI</maintype>
+				<format-allstar>legal</format-allstar>
+			</prop>
+		</card>
+		<card>
+			<name>Timerbomb, Super Trickster (Revise)</name>
+			<set picURL="https://raw.githubusercontent.com/DragoonX6/CopeXoss/master/pics/CUSTOM/Copium/Timerbomb%2C%20Super%20Trickster%20%28Revise%29.jpg">Copium</set>
+			<tablerow>2</tablerow>
+			<text>[Action] {Down]:  Look at the top 5 cards of your deck.  You may set 1 of them on 1 of your SIGNI Zones as a Trap, then put the rest on the bottom of your deck in any order.
+
+[Trap]:  You may pay {U}{U}{U}.  If you do, all SIGINI on your opponent's field lose their abilities and return all SIGNI on your opponent's field to their owners' hands.
+
+[Life Burst]:  Return 1 SIGNI on your opponent's field to its owner's hand.</text>
+			<prop>
+				<colors>U</colors>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>SIGNI|LB - War Spirit: Trickster - Aya Limited</type>
+				<pt>10000</pt>
+				<maintype>SIGNI|LB</maintype>
+				<format-allstar>legal</format-allstar>
+			</prop>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
