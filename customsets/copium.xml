@@ -12,7 +12,7 @@
 			<name>Roach Motel, Small Trickster (Revise)</name>
 			<set picURL="https://raw.githubusercontent.com/DragoonX6/CopeXoss/master/pics/CUSTOM/Copium/Roach%20Motel%2C%20Small%20Trickster%20%28Revise%29.jpg">Copium</set>
 			<tablerow>2</tablerow>
-			<text>[Auto]:  When this SIGNI is vanished, look at the top 3 cards of your deck.  You may set that card on 1 of your SIGNI Zones as a Trap. Put the rest on the bottom of your deck in any order.
+			<text>[Auto]:  When this SIGNI is vanished, look at the top 3 cards of your deck.  You may set 1 of them on 1 of your SIGNI Zones as a Trap. Put the rest on the bottom of your deck in any order.
 (Traps are set on SIGNI Zones facedown.  A SIGNI Zone may only have 1 Trap on it at a time.  When a SIGNI on your opponent's field attacks towards a SIGNI Zone with a Trap, if there is no SIGNI on that SIGNI Zone, you may flip the Trap face-up and trigger its [Trap] ability if any.  Then put the flipped card into the trash.)</text>
 			<prop>
 				<colors>U</colors>
