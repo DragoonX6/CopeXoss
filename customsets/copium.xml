@@ -170,5 +170,20 @@
 				<format-allstar>legal</format-allstar>
 			</prop>
 		</card>
+		<card>
+			<name>Attacking Aya! I (Revise)</name>
+			<set picURL="https://raw.githubusercontent.com/DragoonX6/CopeXoss/master/pics/CUSTOM/Copium/Attacking%20Aya%21%20I%20%28Revise%29.jpg">Copium</set>
+			<tablerow>0</tablerow>
+			<text>[Enter] Pay 1 Coin: Look at the top 3 cards of your deck, then you may set 1 of them on 1 of your SIGNI Zones as a Trap.  Put the rest on the bottom of your deck in any order.</text>
+			<prop>
+				<colors>U</colors>
+				<manacost>1 - 0</manacost>
+				<cmc>1</cmc>
+				<type>LRIG - Aya</type>
+				<loyalty>2</loyalty>
+				<maintype>LRIG</maintype>
+				<format-allstar>legal</format-allstar>
+			</prop>
+		</card>
 	</cards>
 </cockatrice_carddatabase>
