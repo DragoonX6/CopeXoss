@@ -140,7 +140,9 @@
 			<name>Browcra, Small Trickster (Revise)</name>
 			<set picURL="https://raw.githubusercontent.com/DragoonX6/CopeXoss/master/pics/CUSTOM/Copium/Browcra%2C%20Small%20Trickster%20%28Revise%29.jpg">Copium</set>
 			<tablerow>2</tablerow>
-			<text>[Trap]: All SIGNI on your opponent's field lose their abilities until end of turn.</text>
+			<text>[Trap]: Choose one:
+- If it's your opponent's turn, all of your opponent's currently active effects do nothing until end of turn.
+- All SIGNI on your opponent's field lose their abilities until end of turn.</text>
 			<prop>
 				<colors>U</colors>
 				<manacost>1</manacost>
