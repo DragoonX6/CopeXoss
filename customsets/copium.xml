@@ -187,5 +187,25 @@
 				<format-allstar>legal</format-allstar>
 			</prop>
 		</card>
+		<card>
+			<name>Finishing Blow Aya! V (Revise)</name>
+			<set picURL="https://raw.githubusercontent.com/DragoonX6/CopeXoss/master/pics/CUSTOM/Copium/Finishing%20Blow%20Aya%21%20V%20%28Revise%29.jpg">Copium</set>
+			<tablerow>0</tablerow>
+			<text>[Constant]:  This LRIG gets the [Auto] abilities of all LRIGs under this card.
+[Action] [1/Turn] Add 1 [Trap] on your field to your hand: Return 1 SIGNI on your opponent's field to its owner's hand, then set up to 3 cards from your hand onto your SIGNI Zones facedown as [Trap]s.
+[Action] [Attack Phase] Pay 2 Coins: Set 1 SIGNI on your opponent's field facedown on its SIGNI Zone as a [Trap].
+[Action] [Attack Phase] ((Holograph)) {Exceed 2}: This LRIG gets the following ability until end of turn:
+"[Auto]:  When a SIGNI or LRIG on your opponent's field attacks, reveal the top cards of each player's deck, then put them on the bottom of the decks.  If both or neither of the cards revealed this way have [Life Burst], negate that attack."
+[Action] [1/Game] {Exceed 1}: Gain {Coin}{Coin}.</text>
+			<prop>
+				<colors>U</colors>
+				<manacost>5 - UU</manacost>
+				<cmc>5</cmc>
+				<type>LRIG - Aya</type>
+				<loyalty>12</loyalty>
+				<maintype>LRIG</maintype>
+				<format-allstar>legal</format-allstar>
+			</prop>
+		</card>
 	</cards>
 </cockatrice_carddatabase>
